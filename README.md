@@ -1,12 +1,14 @@
+
+
 # Hotstar Clone
 
 A responsive clone of the Hotstar website built with modern web technologies. This project demonstrates clean HTML structure and CSS styling for a complete streaming platform interface.
 
 ## 🛠️ Technologies Used
 
-- **HTML5** - Semantic markup and structure
-- **CSS3** - Responsive design, animations, and styling
-- **Responsive Design** - Mobile-first approach with flexible layouts
+- **HTML5** - Semantic Markup And Structure
+- **CSS3** - Responsive Design, Animations, And Styling
+- **Responsive Design** - Mobile-first approach with Flexible Layouts
 
 ## ✨ Features
 
@@ -18,11 +20,11 @@ A responsive clone of the Hotstar website built with modern web technologies. Th
 
 ## 📁 Project Structure
 
-* HotStarClone-DevTown/
+* HotStarClone-DevTown
     * index.html
-    * css/
+    * css
         * style.css
-    * images/
+    * images
     * README.md
 
 
@@ -30,13 +32,13 @@ A responsive clone of the Hotstar website built with modern web technologies. Th
 
 1. Clone the repository
    
-git clone https://github.com/JeshurunCarlos/HotStarClone-DevTown.git
+    ```git clone https://github.com/JeshurunCarlos/HotStarClone-DevTown.git```
 
 2. Open `index.html` in any modern web browser
 
 ## 📱 Preview
 
-Live demo available at: [CodeSandbox](https://codesandbox.io/s/github/JeshurunCarlos/HotStarClone-DevTown)
+Live demo available at: [CodeSandbox]([https://codesandbox.io/s/github/JeshurunCarlos/HotStarClone-DevTown](https://codesandbox.io/p/sandbox/hot-star-clone-jeshurun-4813jk))
 
 ## 🎨 Design
 
