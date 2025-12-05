@@ -18,13 +18,14 @@ A responsive clone of the Hotstar website built with modern web technologies. Th
 
 ## 📁 Project Structure
 
+''
 HotStarClone-DevTown/
 ├── index.html
 ├── css/
 │ └── style.css
 ├── images/
 └── README.md
-
+''
 
 ## 🚀 Quick Start
 
