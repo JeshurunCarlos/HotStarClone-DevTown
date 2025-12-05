@@ -1,4 +1,4 @@
-
+<img src="Hotstar Preview.png"> </a>
 
 # Hotstar Clone
 
@@ -38,7 +38,7 @@ A responsive clone of the Hotstar website built with modern web technologies. Th
 
 ## 📱 Preview
 
-Live demo available at: [CodeSandbox]([https://codesandbox.io/s/github/JeshurunCarlos/HotStarClone-DevTown](https://codesandbox.io/p/sandbox/hot-star-clone-jeshurun-4813jk))
+Website Preview: [CodeSandbox](https://codesandbox.io/p/sandbox/hot-star-clone-jeshurun-4813jk)
 
 ## 🎨 Design
 
